@@ -1,0 +1,35 @@
+body {
+    background-color: lightpink;
+}
+#score {
+    font-size: 30px;
+    margin-left: 20px;
+    float: left;
+    color: lavender;
+}
+#timer {
+    font-size: 30px;
+    margin-right: 60px;
+    float: right;
+    color: lavender;
+}
+
+#show_sketch {
+    float: right;
+    
+}
+
+#to_draw {
+    color: purple;
+    font-size: 30px;
+}
+
+#your_sketch {
+    font-size: 20px;
+    color:whitesmoke;
+}
+
+#confidence {
+    font-size: 20px;
+    color: whitesmoke;
+}
